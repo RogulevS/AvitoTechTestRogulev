@@ -103,7 +103,7 @@ class ViewController: UIViewController {
                 }
             case .failure(let error):
                 DispatchQueue.main.async {
-                    self?.showAlert(message: Constants.Strings.error + error.localizedDescription)
+                    self?.showAlert(message: error.localizedDescription)
                 }
             }
         }
