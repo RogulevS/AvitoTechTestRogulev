@@ -3,6 +3,6 @@
     <entity name="Employee" representedClassName="Employee" syncable="YES" codeGenerationType="class">
         <attribute name="name" optional="YES" attributeType="String"/>
         <attribute name="phoneNumber" optional="YES" attributeType="String"/>
-        <attribute name="skills" optional="YES" attributeType="Transformable" customClassName="[String]"/>
+        <attribute name="skills" optional="YES" attributeType="Transformable" valueTransformerName="" customClassName="[String]"/>
     </entity>
 </model>

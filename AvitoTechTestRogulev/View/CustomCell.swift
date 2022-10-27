@@ -1,5 +1,5 @@
 //
-//  CustomTableViewCell.swift
+//  CustomCell.swift
 //  AvitoTechTestRogulev
 //
 //  Created by Rogulev Sergey on 21.10.2022.
